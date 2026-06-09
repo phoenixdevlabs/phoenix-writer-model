@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="Ov4H8QZxHRL6zFBvUA3Z">
+    <mxGraphModel dx="860" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KEHBypfiPnHfp0EBQFIf-2" edge="1" parent="1" source="KEHBypfiPnHfp0EBQFIf-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KEHBypfiPnHfp0EBQFIf-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KEHBypfiPnHfp0EBQFIf-4" edge="1" parent="1" source="KEHBypfiPnHfp0EBQFIf-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" target="KEHBypfiPnHfp0EBQFIf-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KEHBypfiPnHfp0EBQFIf-6" edge="1" parent="1" source="KEHBypfiPnHfp0EBQFIf-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" target="KEHBypfiPnHfp0EBQFIf-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KEHBypfiPnHfp0EBQFIf-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Electron App&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Tiptap editor + Zustand+ Codemirror&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="240" x="340" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="KEHBypfiPnHfp0EBQFIf-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Localstorage" vertex="1">
+          <mxGeometry height="42.5" width="140" x="90" y="253.75" as="geometry" />
+        </mxCell>
+        <mxCell id="KEHBypfiPnHfp0EBQFIf-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Database (Supabase)" vertex="1">
+          <mxGeometry height="40" width="140" x="90" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="KEHBypfiPnHfp0EBQFIf-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Filesystem" vertex="1">
+          <mxGeometry height="40" width="140" x="90" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="KEHBypfiPnHfp0EBQFIf-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Save" vertex="1">
+          <mxGeometry height="30" width="60" x="260" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="KEHBypfiPnHfp0EBQFIf-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Local" vertex="1">
+          <mxGeometry height="30" width="60" y="295" as="geometry" />
+        </mxCell>
+        <mxCell id="KEHBypfiPnHfp0EBQFIf-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sync" vertex="1">
+          <mxGeometry height="30" width="60" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="KEHBypfiPnHfp0EBQFIf-11" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" value="" vertex="1">
+          <mxGeometry height="100" width="20" x="50" y="260" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
